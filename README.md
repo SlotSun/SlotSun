@@ -1,6 +1,6 @@
 ### welcome  🎉
 </br>
-I'm SlotSun, a Android developer and sometime develop some client applications, living in Yokohama now.
+I'm SlotSun, an Android developer and sometime develop some client applications, living in Yokohama now.
 
 - 🔨 I’m currently use Flutter,Kotlin,Python and React
 - 📮 How to reach me: slot_sun@outlook.com
